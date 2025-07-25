@@ -11,7 +11,7 @@ Noise generation functions.
 ## Installation
 
 ```sh
-idf.py add-dependency "esp-idf-lib/noise^1.0.0
+idf.py add-dependency esp-idf-lib/noise^1.0.0
 ```
 
 ## Support
