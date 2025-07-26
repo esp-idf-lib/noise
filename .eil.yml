@@ -1,7 +1,7 @@
 ---
 name: noise
 description: Noise generation functions
-version: 1.0.3
+version: 1.0.4
 groups:
   - common
 code_owners: UncleRus
